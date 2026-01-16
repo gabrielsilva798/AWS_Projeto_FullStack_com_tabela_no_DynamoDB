@@ -29,6 +29,8 @@ Ao final deste laboratório, você será capaz de:
 * Realizar a **limpeza dos recursos** para evitar custos
 
 ---
+## 👀 Os prints são de minha autoria, feito na minha conta AWS, espero que sirvam de guia para vocês
+---
 
 ## 🧩 Arquitetura da Solução
 
