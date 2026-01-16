@@ -486,7 +486,7 @@ tr:hover {
   border: 1px solid #f5c6cb;
 }
 
-/* Styles para Modal. */
+/* Styles para Modal */
 .hidden {
   display: none !important;
 }
