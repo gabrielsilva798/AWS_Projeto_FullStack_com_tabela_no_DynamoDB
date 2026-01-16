@@ -278,7 +278,7 @@ Prints
 ![Texto alternativo](prints/Captura22.png)
 ![Texto alternativo](prints/Captura23.png)
 ![Texto alternativo](prints/Captura24.png)
-![Texto alternativo](prints/Captura24.png)
+
 ---
 
 ## 🎨 Passo 5 – Frontend (HTML, CSS e JavaScript)
@@ -565,7 +565,8 @@ tr:hover {
 
 > ⚠️ Lembre-se de inserir a URL do API Gateway na variável `API_URL`
 
-```const API_URL = '<LINK SEU API GATEWAY>/produtos';
+```javascript
+const API_URL = '<LINK SEU API GATEWAY>/produtos';
 let produtosCache = [];
 
 // Elementos do modal
