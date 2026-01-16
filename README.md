@@ -132,7 +132,7 @@ Implementar as operações **CRUD** (Create, Read, Update, Delete).
 
 ### 🧩 Código Python – Lambda (CRUD)
 
-> 🔽 **Basta enviar esse codigo zipado para o Lambda**
+> 🔽 **Basta enviar esse código zipado para o Lambda**
 
 ```python
 import json
