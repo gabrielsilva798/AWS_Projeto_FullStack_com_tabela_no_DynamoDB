@@ -12,6 +12,7 @@ Este laboratório descreve, de forma **detalhada e prática**, a criação de um
 
 O objetivo é construir uma **aplicação web de cadastro de produtos**, integrando frontend e backend totalmente na nuvem.
 
+*Onde está escrito ***seu nome***, substitua pelo seu nome 😂*
 ---
 
 ## 🎯 Objetivos do Laboratório
