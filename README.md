@@ -1,4 +1,4 @@
-# 📘 Laboratório AWS – Aplicação Serverless CRUD com DynamoDB e Python
+# 📘 Laboratório AWS – Aplicação Serverless CRUD com DynamoDB e Python - Serviço de Gerenciamento de Produtos
 
 ## 📌 Visão Geral
 
